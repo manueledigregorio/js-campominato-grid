@@ -21,4 +21,6 @@ Aggiungere una select accanto al bottone di generazione, che fornisca una scelta
 1. creare una variabile per il container e il bottone su javascript
 1. creato l'evento click del bottone 
 1. resettiamo il container con una funzione
-1. facciao un ciclo per ripetere 100 volte e creare un div con la classe ".square"
+1. facciao un ciclo per ripetere 100 volte e creare un div con la classe ".   square"
+1. crea elemento click aggingo ad ogni square il click con "this"
+1. creo square id 
